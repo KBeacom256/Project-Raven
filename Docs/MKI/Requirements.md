@@ -30,6 +30,7 @@ Performance targets:
 - HD recording camera  == Maybe
 - Easy repair          == Yes
 - Backpack portable    == Yes
+- Telementry           == Yes
 
 
 
