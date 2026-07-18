@@ -1,1 +1,16 @@
-s
+What systems are required and their purpose:
+
+- Battery                 == Provide stable power at a constant rate
+- Power module            == High current power distribution and battery monitoring
+- Flight controller       == Autonomous navigation flight logging and stabilization 
+--- GPS                   == Return to launch waypoint navigation and position holding 
+--- ELRS Reciever         == Pilot control manuel override and flight mode selection 
+--- Telementary Radio     == Aircraft monitor mission upload and log download 
+--- Camera                == Navigation 
+--- ESCs                  == Maintain stable distributuion 
+----- Motors              == Provide thrust for heavy payloads
+------- Propellers        == Maintain stability in wind
+- Frame                   == Support heavy payloads rigid structure provide modular mounting points
+- Payload system          == Thermal camera mapping camera and future research payloads
+- Companion computer      == Computer vision and AI algorithms image processing and decisions
+- Expansion interfaces    == Additional room ports and power outputs for future developement
