@@ -29,16 +29,24 @@ FLIGHT ELECTRONICS:
 - Flight controller
 \\ Matek H743 Slim V3
 - GPS
+\\
 - Power module
+\\
 - Reciever
+\\
 - Telementary radio
+\\
 
 VIDEO SYSTEM:
 - Camera
+\\
 - video transmitter
+\\
 - Antenna
+\\
 - Display/Goggles
 
+\\
 POWER:
 - Battery
 \\ 4s battery 1800mah 120c XT60
@@ -50,13 +58,19 @@ POWER:
 
 Everything else:
 - Landing gear
+\\
 - Hardware
+\\
 - Tools
+\\
 - Spare parts
+\\
 - 3d printed parts
+\\
 - Components
+\\
 - Cases
-
+\\
 
 
 
