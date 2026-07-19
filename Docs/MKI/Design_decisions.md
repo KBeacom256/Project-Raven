@@ -27,6 +27,7 @@ PROPULSION:
 
 FLIGHT ELECTRONICS:
 - Flight controller
+\\ Matek H743 Slim V3
 - GPS
 - Power module
 - Reciever
