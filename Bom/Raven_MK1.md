@@ -1,7 +1,7 @@
 Component___________Selected____________________Status_________________________Reason
 
 Motors______________Existing 2204 2300 KV (4×)__Selected________________________Already owned; matches 5-inch platform.
-Propellers__________5-inch______________________Selected________________________Matches motor recommendations and community experience.
+Propellers__________Gemfan Hurricane 51433______Selected________________________Matches motor recommendations and community experience.
 Battery_____________CNHL 1800mAh 4S LiPo Battery 14.8V 120C__Selected________Community-tested; capacity to be selected after weight analysis.
 Frame_______________Tony 5______________________Selected________________________5 inch under 250g and carbon fiber
 ESC_________________SEQURE 45A 4-in-1 ESC_______Selected________________________Must exceed 12 A per motor with appropriate safety margin.
@@ -12,3 +12,4 @@ ELRS Receiver_______RadioMaster RP3_____________Selected________________________
 Camera______________RunCam pheonix 2____________Selected________________________Durable excellent image quality and reliable
 Connectors__________XT60________________________Selected________________________Standardized with all components.
 Charger_____________150W/5A smart charger_______Selected________________________Support for all battery types and safe charging.
+Antenna_____________Foxeer Lollipop 4___________Selected________________________5.8ghz RHCP SMA reliable 
