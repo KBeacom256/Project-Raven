@@ -21,7 +21,9 @@ PROPULSION:
 - Propeller Dia
 \\ 5-inch propellers
 - ESC
+\\ SEQURE 45A 4-in-1 ESC
 - Battery voltage
+\\ 14.8v
 
 FLIGHT ELECTRONICS:
 - Flight controller
@@ -38,9 +40,11 @@ VIDEO SYSTEM:
 
 POWER:
 - Battery
-\\ 4s battery system 
+\\ 4s battery 1800mah 120c XT60
 - Charger
+\\ LiPo Battery Charger, 150W 10A AC/DC RC Balance Charger for 1-6S LiPo/LiHV/Li-ion/Life, NiMH NiCd (1-15S) Pb
 - Connectors
+\\ XT60s
 - Wiring
 
 Everything else:
