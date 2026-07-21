@@ -31,7 +31,7 @@ FLIGHT ELECTRONICS:
 - GPS
 \\
 - Power module
-\\
+\\ Matek PMO2 V3
 - Reciever
 \\
 - Telementary radio
