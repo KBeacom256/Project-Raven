@@ -45,7 +45,7 @@ VIDEO SYSTEM:
 - Antenna
 \\ Foxeer lolipop 4 RHCP
 - Display/Goggles
-\\
+\\ Eachine EV800D
 
 POWER:
 - Battery
@@ -55,6 +55,7 @@ POWER:
 - Connectors
 \\ XT60s
 - Wiring
+\\ 18AWG silicone wire
 
 Everything else:
 - Landing gear
