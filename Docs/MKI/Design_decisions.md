@@ -29,24 +29,24 @@ FLIGHT ELECTRONICS:
 - Flight controller
 \\ Matek H743 Slim V3
 - GPS
-\\
+\\ Hollybro M10 
 - Power module
 \\ Matek PMO2 V3
 - Reciever
-\\
+\\ Radiomaster RP3 ELRS
 - Telementary radio
-\\
+\\ Hollybro SIK V3 915mhz
 
 VIDEO SYSTEM:
 - Camera
-\\
+\\ RunCam Pheonix 2
 - video transmitter
-\\
+\\ AKK 1918
 - Antenna
-\\
+\\ Foxeer lolipop 4 RHCP
 - Display/Goggles
-
 \\
+
 POWER:
 - Battery
 \\ 4s battery 1800mah 120c XT60
