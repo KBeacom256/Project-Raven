@@ -14,4 +14,6 @@
 - next step determine compatibility and add new file to run through every single factor
 
 ## 2026-07-20
-- 
+- continued working on design decisions
+- continued working on the BOM page and currently transfering over to excel sheets.
+- next step when finished will be creating a compatibility matrix spread sheet to check all parts
