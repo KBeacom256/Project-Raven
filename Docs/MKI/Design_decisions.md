@@ -39,13 +39,13 @@ FLIGHT ELECTRONICS:
 
 VIDEO SYSTEM:
 - Camera
-\\ RunCam Pheonix 2
+\\ Walksnail Moonlight Kit
 - video transmitter
-\\ AKK 1918
+\\ Walksnail Moonlight Kit
 - Antenna
-\\ Foxeer lolipop 4 RHCP
+\\ Walksnail Moonlight Kit
 - Display/Goggles
-\\ Eachine EV800D
+\\ Avatar walksnail L
 
 POWER:
 - Battery
@@ -67,8 +67,6 @@ Everything else:
 - Spare parts
 \\
 - 3d printed parts
-\\
-- Components
 \\
 - Cases
 \\
