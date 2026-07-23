@@ -1,4 +1,36 @@
 What systems are required and their purpose:
+                 Ground Control Station
+              (Mission Planner / QGC)
+                        │
+         ┌──────────────┴──────────────┐
+         │                             │
+    MAVLink Telemetry             ELRS Control
+         │                             │
+         └──────────────┬──────────────┘
+                        │
+             ┌─────────────────────┐
+             │      Raven Mk I     │
+             │ Flight Controller   │
+             │ GPS / Compass / IMU │
+             │ Power System         │
+             │ Analog Camera        │
+             └─────────────────────┘
+
+                        │
+                Proven technologies
+                        ▼
+
+             ┌─────────────────────┐
+             │      Raven Mk II    │
+             │ Flight Controller   │
+             │ GPS / Compass / IMU │
+             │ HD Video System      │
+             │ Companion Computer   │
+             │ Payload Interfaces   │
+             └─────────────────────┘
+
+
+
 - Battery               == Provide stable power at a constant rate
 - Power module          == Protect electronics and saftey
 - Flight controller     == Autonomous navigation flight logging and stabilization
