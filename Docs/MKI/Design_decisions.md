@@ -59,17 +59,20 @@ POWER:
 
 Everything else:
 - Landing gear
-\\
+\\ custom TPU landing gear/ skirts
 - Hardware
-\\
+\\ custom TPU PETG mast
 - Tools
-\\
+\\ 
 - Spare parts
 \\
 - 3d printed parts
 \\
 - Cases
-\\
+\\ TPU battery cradle TPU PETG
+\\ flight controller mount TPU foam mounts
+\\ silicone wire harness
+\\ TPU electronics mounts
 
 
 
