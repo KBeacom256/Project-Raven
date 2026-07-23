@@ -22,9 +22,13 @@
 - continued working on the BOM page continued making the sheets
 - finished design decisions except hardware.
 
-## 2026-07-21
+## 2026-07-22
 - Finished BOM for MKI and compatibility matrix unless soemthing needs changed.
 - Need to finish design decisions and finish up pricing vendor and links.
+
+## 2026-07-23
+- 
+
 
 
 
