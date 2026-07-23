@@ -27,7 +27,7 @@
 - Need to finish design decisions and finish up pricing vendor and links.
 
 ## 2026-07-23
-- 
+- got parts ready to be ordered and now looking into parts for MK2
 
 
 
