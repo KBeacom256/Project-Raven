@@ -21,7 +21,7 @@ PROPULSION:
 - Propeller Dia
 \\ 5-inch propellers
 - ESC
-\\ SEQURE 45A 4-in-1 ESC
+\\ SEQURE 65A 4-in-1 ESC
 - Battery voltage
 \\ 14.8v
 
