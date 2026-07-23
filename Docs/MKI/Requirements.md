@@ -21,13 +21,12 @@ Design priorities:
 Performance targets:
 - Flight time          == 20-30 min
 - Cruise speed         == 20-35 mph
-- Top speed            == 45-60 mph
+- Top speed            == 45-60 mph not build requirement
 - Wind resistance      == stable in
 - Flight controller    == ArduPilot compatible
 - GPS                  == Yes
 - Autonomous flight    == Yes
-- FPV camera           == Yes
-- HD recording camera  == Maybe
+- HD recording camera  == Yes
 - Easy repair          == Yes
 - Backpack portable    == Yes
 - Telementry           == Yes
