@@ -10,7 +10,7 @@ Layout \ normal X format
 PROPULSION:
 Motor size \ 
 Motor KV \ 
-Propeller Dia \ 
+Propeller Dia \ Gemfan X-Class 1308 3-Blade Propeller 8inch Pitch 6mm Center Hole
 ESC \ 
 Battery voltage \ 
 Thrust to weight target \
