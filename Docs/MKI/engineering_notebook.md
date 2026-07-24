@@ -29,6 +29,8 @@
 ## 2026-07-23
 - got parts ready to be ordered and now looking into parts for MK2
 
+## 2026-07-23
+- Officially have changed focus to MKII will be ordering MKI supplies and parts.
 
 
 
