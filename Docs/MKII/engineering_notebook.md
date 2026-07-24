@@ -7,4 +7,10 @@
 ## 2026-07-23
 - started working on parts list BOM and design decisions for Raven MKII
 
+## 2026-07-23
+- took the TRUST test and now have certification to fly for two years before renewal
+
+
+
+
 
