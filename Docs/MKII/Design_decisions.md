@@ -8,7 +8,6 @@ TPU landing gear
 Layout \ normal X format
 
 PROPULSION:
-
 Motor size \ 
 Motor KV \ 
 Propeller Dia \ 
