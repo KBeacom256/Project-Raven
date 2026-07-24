@@ -8,12 +8,12 @@ TPU landing gear
 Layout \ normal X format
 
 PROPULSION:
-Motor size \ 
-Motor KV \ 
-Propeller Dia \ Gemfan X-Class 1308 3-Blade Propeller 8inch Pitch 6mm Center Hole
+Motor size \ MAD 4006 EEE 
+Motor KV \ 380KV
+Propeller Dia \ 15in 6in pitch
 ESC \ 
 Battery voltage \ 
-Thrust to weight target \
+Thrust to weight target \ 2:1
 
 FLIGHT ELECTRONICS:
 Flight controller \ 
