@@ -21,7 +21,7 @@ GPS \
 Power module \ 
 Reciever \ Radiomaster RP3 ELRS
 Telementary radio \ Hollybro SIK V3 915mhz
-Remote ID module \ 
+Remote ID module \ Holy Stone FAA Compliant Remote ID Module for Drone, Broadcast Module with Strobe Light and Buzzer
 
 VIDEO SYSTEM:
 Camera \ Walksnail Moonlight Kit
