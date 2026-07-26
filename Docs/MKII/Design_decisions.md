@@ -1,5 +1,5 @@
 AIRFRAME: 
-frame size \ 
+frame size \ 15" rotors with a blank sized middle
 Wheelbase \ 
 Material \ Carbon fiber square tube arms (22×22×4 mm)
 Custom printed Carbon Fiber CFS center structure
@@ -11,14 +11,14 @@ PROPULSION:
 Motor size \ MAD 4006 EEE 
 Motor KV \ 380KV
 Propeller Dia \ 15in 6in pitch
-ESC \ 
+ESC \ MAD BLHeli_32 70A ESC
 Battery voltage \ 
 Thrust to weight target \ 2:1
 
 FLIGHT ELECTRONICS:
-Flight controller \ 
-GPS \ 
-Power module \ 
+Flight controller \ Holybro pixhawks 6c
+GPS \ cube pilot here4
+Power module \ PMO6
 Reciever \ Radiomaster RP3 ELRS
 Telementary radio \ Hollybro SIK V3 915mhz
 Remote ID module \ Holy Stone FAA Compliant Remote ID Module for Drone, Broadcast Module with Strobe Light and Buzzer
@@ -28,10 +28,10 @@ Camera \ Walksnail Moonlight Kit
 video transmitter \ Walksnail Moonlight Kit
 Antenna \ Walksnail Moonlight Kit
 Display/Goggles \ Avatar walksnail L
-DVR recording \
+DVR recording \ walksnail
 
 POWER:
-Battery \ 
+Battery \ 6s LiPo x 2
 Charger \ LiPo Battery Charger, 150W 10A AC/DC RC Balance Charger for 1-6S LiPo/LiHV/Li-ion/Life, NiMH NiCd (1-15S) Pb
 Connectors \ 
 Wiring \ 
