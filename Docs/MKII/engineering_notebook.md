@@ -15,5 +15,9 @@
 - continued working on the BOM for MKII 
 - also looking into the part 107 testing and remote pilot certification
 
-
+## 2026-07-29
+- Finalized the BOM file compatibility matrix mass budget and hardware list.
+- next goal most likely work on getting the structure of the rest of the repository filled out
+- also created a master hardware sheet
+- created a master sheet to keep track of parts that must be 3d modeled and printed
 
