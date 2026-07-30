@@ -32,7 +32,9 @@
 ## 2026-07-23
 - Officially have changed focus to MKII will be ordering MKI supplies and parts.
 
-
+## 2026-07-29
+- created a master sheet to keep track of hardware components and 3d printing modeling components needed.
+- next goal is to fill out the rest of the repository
 
 
 
